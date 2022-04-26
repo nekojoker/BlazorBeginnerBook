@@ -1,5 +1,8 @@
 #  「猫でもわかるBlazor入門」のサポートページ
 
+▼ 書籍販売 URL  
+https://nekojoker.booth.pm/items/3815964
+
 ## 改訂履歴
 ### ver 1.4 (2022/2/22)
 - .NET 6 に対応
